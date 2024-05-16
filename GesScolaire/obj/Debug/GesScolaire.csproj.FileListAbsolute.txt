@@ -1,0 +1,15 @@
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\GesScolaire.exe.config
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\GesScolaire.exe
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\GesScolaire.pdb
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\EntityFramework.dll
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\EntityFramework.xml
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.csproj.AssemblyReference.cache
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.Form1.resources
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.Properties.Resources.resources
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.csproj.GenerateResource.cache
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.csproj.CoreCompileInputs.cache
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScola.FE315731.Up2Date
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.exe
+C:\Users\HP Zbook\source\repos\GesScolaire\GesScolaire\obj\Debug\GesScolaire.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GesscolaireModelStoreContainer" CdmEntityContainer="GesscolaireEntities2">
+    <EntitySetMapping Name="Classe">
+      <EntityTypeMapping TypeName="GesscolaireModel.Classe">
+        <MappingFragment StoreEntitySet="Classe">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="libelle" ColumnName="libelle" />
+          <ScalarProperty Name="niveau" ColumnName="niveau" />
+          <ScalarProperty Name="specialite" ColumnName="specialite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Etudiant">
+      <EntityTypeMapping TypeName="GesscolaireModel.Etudiant">
+        <MappingFragment StoreEntitySet="Etudiant">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="credit" ColumnName="credit" />
+          <ScalarProperty Name="montantverser" ColumnName="montantverser" />
+          <ScalarProperty Name="anneescolaire" ColumnName="anneescolaire" />
+          <ScalarProperty Name="idclasse" ColumnName="idclasse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="GesscolaireModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
